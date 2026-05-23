@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="epiclock_banner.png" alt="Epigenetic Clock Banner" width="100%">
+  <img src="Epiclock_banner.png" alt="Epigenetic Clock Banner" width="100%">
 </p>
 # Interpretable Epigenetic Clock for Biological Age Prediction Using DNA Methylation Data
 
