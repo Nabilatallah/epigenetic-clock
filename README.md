@@ -56,7 +56,7 @@ The primary objective was to:
 | Task | Output |
 |---|---|
 | Aligned Beta Matrix | 656 samples × ~473,034 CpGs |
-| Best Model (MAE) | *[Insert best model and MAE]* |
+| Best Model (MAE) | XGboost |
 | Top CpGs Identified | `cg16867657 (ELOVL2)`, `cg22454769 (FHL2)`, etc. |
 | Enriched Pathways | DNA damage response, telomere maintenance, cell cycle regulation |
 | SHAP Interpretation | Visualized top 100 CpGs driving age prediction |
