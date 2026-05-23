@@ -2,6 +2,24 @@
   <img src="Epiclock_banner.png" alt="Epigenetic Clock Banner" width="100%">
 </p>
 # Interpretable Epigenetic Clock for Biological Age Prediction Using DNA Methylation Data
+> Machine learning and explainable AI pipeline for biological age prediction using genome-wide DNA methylation data.
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![R](https://img.shields.io/badge/R-4.3-276DC3?logo=r)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-success)
+![SHAP](https://img.shields.io/badge/Explainable_AI-SHAP-orange)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Epigenomics-purple)
+![HPC](https://img.shields.io/badge/HPC-SLURM-important)
+![Containerized](https://img.shields.io/badge/Containerized-Apptainer-blueviolet)
+![Dataset](https://img.shields.io/badge/Dataset-GSE40279-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen)
+![AI in Healthcare](https://img.shields.io/badge/AI-Healthcare-critical)
+![Precision Medicine](https://img.shields.io/badge/Precision_Medicine-Bioinformatics-blue)
+![Reproducible Research](https://img.shields.io/badge/Reproducible-Research-success)
+![Genome Scale](https://img.shields.io/badge/Genome_Scale-473K_CpGs-informational)
 
 ## Project Overview
 
